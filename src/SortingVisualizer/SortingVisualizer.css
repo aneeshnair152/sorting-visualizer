@@ -1,0 +1,28 @@
+:root{
+  --bar-width: 15px;
+}
+
+.array-container {
+  position: relative;
+  flex-direction: row;
+  top: 15px;
+}
+
+.array-bar {
+  width: var(--bar-width);
+  display: inline-block;
+  margin: 0 1px;
+}
+
+.menu {
+  margin-top: 50px;
+  display:inline-block;
+  position: relative;
+}
+
+.menu-2{
+  margin-left: 100px;
+  position: relative;
+}
+
+

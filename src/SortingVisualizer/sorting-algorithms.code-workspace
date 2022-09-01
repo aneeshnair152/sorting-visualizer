@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "sorting-algorithms",
+			"path": "../.."
+		},
+		{
+			"name": "src",
+			"path": "../../../Downloads/Sorting-Visualizer-Tutorial-master/src"
+		}
+	],
+	"settings": {}
+}
