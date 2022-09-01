@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/aneeshnair152/sorting-visualizer/static/css/main.59abdb6a.css",
+    "main.js": "/aneeshnair152/sorting-visualizer/static/js/main.aa0db694.js",
+    "index.html": "/aneeshnair152/sorting-visualizer/index.html",
+    "main.59abdb6a.css.map": "/aneeshnair152/sorting-visualizer/static/css/main.59abdb6a.css.map",
+    "main.aa0db694.js.map": "/aneeshnair152/sorting-visualizer/static/js/main.aa0db694.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59abdb6a.css",
+    "static/js/main.aa0db694.js"
+  ]
+}
